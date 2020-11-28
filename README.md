@@ -16,7 +16,7 @@ In this project, VBA scripting will be used to analyze real stock market data.
 
 ## Project Details
 
-- This VBA a script will loop through all the stocks for one year and output the following information:
+- The VBA script will loop through all the stocks for one year and output the following information:
 
   - The ticker symbol.
 
@@ -30,13 +30,11 @@ In this project, VBA scripting will be used to analyze real stock market data.
 
   - Return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
 
-- Here is a look at the reults
+    - 2016 ![2016_screenshot](Images/2016_screenshot.png)
 
-  - 2016 ![2016_screenshot](Images/2016_screenshot.png)
+    - 2015 ![2015_screenshot](Images/2015_screenshot.png)
 
-  - 2015 ![2015_screenshot](Images/2015_screenshot.png)
-
-  - 2014 ![2014_screenshot](Images/2014_screenshot.png)
+    - 2014 ![2014_screenshot](Images/2014_screenshot.png)
 
 - Use TickerProcessorAllWorksheets() to process the tickers on all the worksheets in the workbook.
 
