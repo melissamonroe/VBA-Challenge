@@ -8,7 +8,7 @@ In this project, VBA scripting will be used to analyze real stock market data.
 
 - [Test Data](Resources/alphabetical_testing_MBM.xlsm) - This file was used while developing the VBA scripts. You can run the VBA scripts against this file to see the results faster than running through the larger Stock Data file.
 
-- [Stock Data](Resources/Multiple_year_stock_data.xlsm) - Run VBA scripts on this data to generate the final report.
+- [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run VBA scripts on this data to generate the final report.
 
 ### Stock market analyst
 
