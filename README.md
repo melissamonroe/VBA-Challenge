@@ -38,7 +38,11 @@ In this project, VBA scripting will be used to analyze real stock market data.
 
   - 2014 ![2014_screenshot](Images/2014_screenshot.png)
 
-- Use the buttons to run the VBA script on the current active worksheet or run the VBA script against all the worksheets in the workbook.
+- Use TickerProcessorAllWorksheets() to process the tickers on all the worksheets in the workbook.
+
+- Use TickerProcessor() to process the tickers on the current active worksheet.
+
+- Use ClearTickerSummary() to clear the summary tables on all of the worksheets in the workbook.
 
 ## Contents
 
