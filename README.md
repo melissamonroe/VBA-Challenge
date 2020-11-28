@@ -32,11 +32,11 @@ In this assignment, VBA scripting will be used to analyze real stock market data
 
 - Here is a look at the reults
 
-  - 2016 ![2016_screenshot](Images/2016_screenshot.jpg)
+  - 2016 ![2016_screenshot](Images/2016_screenshot.png)
 
-  - 2015 ![2015_screenshot](Images/2015_screenshot.jpg)
+  - 2015 ![2015_screenshot](Images/2015_screenshot.png)
 
-  - 2014 ![2014_screenshot](Images/2014_screenshot.jpg)
+  - 2014 ![2014_screenshot](Images/2014_screenshot.png)
 
 - Use the buttons to run the VBA script on the current active worksheet or run the VBA script against all the worksheets in the workbook.
 
@@ -46,9 +46,9 @@ In this assignment, VBA scripting will be used to analyze real stock market data
 
   - A screen shot for each year of your results on the Multi Year Stock Data.
 
-    - [2016_screenshot](Images/2016_screenshot.jpg)
-    - [2015_screenshot](Images/2015_screenshot.jpg)
-    - [2014_screenshot](Images/2014_screenshot.jpg)
+    - [2016_screenshot](Images/2016_screenshot.png)
+    - [2015_screenshot](Images/2015_screenshot.png)
+    - [2014_screenshot](Images/2014_screenshot.png)
 
   - VBA Scripts as separate file. [TickerProcessor.vbs](Resources/TickerProcessor.vbs)
 
